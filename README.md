@@ -1,8 +1,4 @@
 # MyGyno
-The README.md file currently exists in your repository but is empty.
-
-You can add the following content to your README.md file to make it more informative:
-
 ```markdown
 # MyGyno
 
