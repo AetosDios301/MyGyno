@@ -1,6 +1,4 @@
 # MyGyno
-```markdown
-# MyGyno
 
 ## Overview
 MyGyno is a comprehensive healthcare application designed to assist with gynecological health management. The application aims to provide users with useful information, tools, and resources related to gynecology.
