@@ -53,6 +53,6 @@ We welcome contributions to improve MyGyno. Please follow these steps to contrib
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact the project maintainer at [aetosdiosgoldeneagle@gmail.com](mailto:pushpendrasinghcs@outlook.com).
-```
+For any questions or feedback, please contact the project maintainer at [pushpendrasinghcs@outlook.com](mailto:pushpendrasinghcs@outlook.com).
+
 
